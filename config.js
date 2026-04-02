@@ -1,12 +1,12 @@
 const CONFIG = {
 
   // 🔴 FOTO PROFIL (18+ LOGO)
-  profile: "https://i.imgur.com/YznES9G.jpeg",
+  profile: "https://images2.imgbox.com/29/85/iGfHW8RH_o.jpg",
 
   // 🖼️ BACKGROUND SLIDER
   backgrounds: [
-    "https://i.imgur.com/5nBqd6L.jpeg",
-    "https://i.imgur.com/YznES9G.jpeg"
+    "https://images2.imgbox.com/b5/68/OJe2w1Hv_o.jpg",
+    "https://images2.imgbox.com/e9/ac/A5ZySnWp_o.jpg"
   ],
 
   // ✨ TEXT
@@ -17,12 +17,12 @@ const CONFIG = {
   links: [
     {
       name: "WhatsApp",
-      url: "https://wa.me/628xxxx",
+      url: "https://tapthelink.cfd/Pfrqy",
       icon: "https://cdn-icons-png.flaticon.com/512/733/733585.png"
     },
     {
   name: "Telegram",
-  url: "https://t.me/username_kamu",
+  url: "https://tapthelink.cfd/Pfrqy",
   icon: "https://cdn-icons-png.flaticon.com/512/2111/2111646.png"
     }
   ]
